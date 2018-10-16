@@ -1,5 +1,5 @@
 C# STRING SPLIT METHOD
-      **
+      
       used to split a string into substrings based on the characters in an array
       The split method will return a string array which contains a substring that are delimited by a 
       specified characters in an array
@@ -14,4 +14,4 @@ C# STRING SPLIT METHOD
  
       
       
-      **
+      
