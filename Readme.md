@@ -4,12 +4,12 @@ C# STRING SPLIT METHOD
       The split method will return a string array which contains a substring that are delimited by a 
       specified characters in an array
 
-    `public string [] Split(char[] separator)`  "syntax"
-        `string names = "Audi,Cadillac, Mercedece";`
-        `string [] autos = names.Split(',');`
+    public string [] Split(char[] separator)  "syntax"
+        string names = "Audi,Cadillac, FordRanger";
+        string [] autos = names.Split(',');
         
-  ``
-         `StringSplitOptions.RemoveEmptyEntries` property is used to remove an empty string elements while returning the result array.
+  
+         StringSplitOptions.RemoveEmptyEntries property is used to remove an empty string elements while returning the result array.
 
  
       
